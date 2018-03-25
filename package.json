@@ -1,0 +1,23 @@
+{
+  "name": "anli-shequ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huixiangsui/anli-shequ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huixiangsui/anli-shequ/issues"
+  },
+  "homepage": "https://github.com/huixiangsui/anli-shequ#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
